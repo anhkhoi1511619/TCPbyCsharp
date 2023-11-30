@@ -42,7 +42,8 @@ namespace GymSimulation
 
         private void send()
         {
-            byte[] s = Util.ToByteArray("Try hard");
+            //byte[] s = Util.ToByteArray("Try hard");
+            byte[] s = new byte[] { 1, 2, 3, 4, 5, 6 };
             this.tcp.Send(s, s.Length);
         }
     }
