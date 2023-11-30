@@ -1,0 +1,11 @@
+C:\Users\khoi.nguyen\source\repos\GymSimulation\GymSimulation\bin\x64\Debug\GymSimulation.exe.config
+C:\Users\khoi.nguyen\source\repos\GymSimulation\GymSimulation\bin\x64\Debug\GymSimulation.exe
+C:\Users\khoi.nguyen\source\repos\GymSimulation\GymSimulation\bin\x64\Debug\GymSimulation.pdb
+C:\Users\khoi.nguyen\source\repos\GymSimulation\GymSimulation\obj\x64\Debug\GymSimulation.csproj.AssemblyReference.cache
+C:\Users\khoi.nguyen\source\repos\GymSimulation\GymSimulation\obj\x64\Debug\GymSimulation.csproj.SuggestedBindingRedirects.cache
+C:\Users\khoi.nguyen\source\repos\GymSimulation\GymSimulation\obj\x64\Debug\GymSimulation.Form1.resources
+C:\Users\khoi.nguyen\source\repos\GymSimulation\GymSimulation\obj\x64\Debug\GymSimulation.Properties.Resources.resources
+C:\Users\khoi.nguyen\source\repos\GymSimulation\GymSimulation\obj\x64\Debug\GymSimulation.csproj.GenerateResource.cache
+C:\Users\khoi.nguyen\source\repos\GymSimulation\GymSimulation\obj\x64\Debug\GymSimulation.csproj.CoreCompileInputs.cache
+C:\Users\khoi.nguyen\source\repos\GymSimulation\GymSimulation\obj\x64\Debug\GymSimulation.exe
+C:\Users\khoi.nguyen\source\repos\GymSimulation\GymSimulation\obj\x64\Debug\GymSimulation.pdb
